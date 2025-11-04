@@ -18,6 +18,10 @@
 > 和老登商量了一下硕士毕业论文的想法，毫不意外，老登用自己完全没有研究的领域给我说了一堆想法，我装模做样的在笔记本上记录。我给老登看了几篇相关专业领域双一流大学的硕士毕业论文，老登竟然认为他们做的太简单了，要求我的硕士论文的内容要比他们丰富，甚至要求我的那篇论文只能作为毕业论文的一个章节？？？可是别人的都是小论文扩充一下，就成了毕业论文...无语。另外，那篇论文已经被拒稿了，编辑告诉我不符合期刊主题，其实我自己清楚，那篇论文实在是太烂了。我爱你wiley，能不能让我中一次论文。
 > 
 
+!(images/1.png)
+
+!](images/2.png)
+
 **English**
 
 > I discussed some ideas for my master's thesis with Laodeng. Unsurprisingly, Laodeng gave me a ton of ideas from a field he has absolutely zero research in, while I just pretended to take notes in my notebook. I showed him several master's theses from top-tier ("Double First-Class") universities in the relevant field. He actually thought their work was "too simple" and demanded that my thesis content be much more substantial than theirs. He even demanded that my existing paper should only be *one chapter* of the final thesis??? But everyone else just expands on their small papers, and that becomes their thesis... I'm speechless.
