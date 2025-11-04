@@ -20,7 +20,7 @@
 
 ![To-complain-about-laodeng-graduate-advisor](images/1.png)
 
-!](images/2.png)
+![To-complain-about-laodeng-graduate-advisor](images/2.png)
 
 **English**
 
