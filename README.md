@@ -1,4 +1,4 @@
-<img width="273" height="30" alt="image" src="https://github.com/user-attachments/assets/94c2ecd3-0e6f-43bf-b551-22a3a31f422a" /># To-complain-about-laodeng-graduate-advisor
+# To-complain-about-laodeng-graduate-advisor
 我是一名在读硕士生，这个项目是吐槽老登专用！！！"I'm a master's student, and this GitHub project is where I vent about my graduate advisor."
 
 ### 1.（2025.10）
