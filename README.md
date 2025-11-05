@@ -27,3 +27,13 @@
 > I discussed some ideas for my master's thesis with Laodeng. Unsurprisingly, Laodeng gave me a ton of ideas from a field he has absolutely zero research in, while I just pretended to take notes in my notebook. I showed him several master's theses from top-tier ("Double First-Class") universities in the relevant field. He actually thought their work was "too simple" and demanded that my thesis content be much more substantial than theirs. He even demanded that my existing paper should only be *one chapter* of the final thesis??? But everyone else just expands on their small papers, and that becomes their thesis... I'm speechless.
 >
 > Also, that paper already got rejected. The editor said it didn't fit the journal's theme. Honestly, I know it myself: that paper is just terrible. I love you, Wiley, please just let me get one paper accepted.
+
+### 吐槽点 3
+
+**中文**
+
+> 老登，求求你看看论文吧，别搞豆包、deepseek科研，公众号科研了，别做井底之蛙了
+
+**English**
+
+> Laodeng, I'm begging you, please actually read some papers. Stop doing your "research" using AI tools like Doubao and Deepseek, and stop treating WeChat Official Accounts like academic sources. Stop being a frog in a well (ignorant and narrow-minded).
