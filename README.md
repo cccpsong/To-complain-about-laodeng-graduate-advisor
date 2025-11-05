@@ -10,8 +10,8 @@
 **Rant #1**
 
 > Laodeng took the paper I wrote perfectly well myself and made a complete mess of it using Deepkseek. Now it looks like it was completely AI-generated, and he added a bunch of content irrelevant to the topic. The worst part is, he clearly hasn't read many papers in the relevant field; he gets his entire understanding of my research area from news articles and AI.
->
-> 
+<br>
+<br>
 
 ### 2. （2025.11.4）
 
@@ -29,8 +29,8 @@
 > I discussed some ideas for my master's thesis with Laodeng. Unsurprisingly, Laodeng gave me a ton of ideas from a field he has absolutely zero research in, while I just pretended to take notes in my notebook. I showed him several master's theses from top-tier ("Double First-Class") universities in the relevant field. He actually thought their work was "too simple" and demanded that my thesis content be much more substantial than theirs. He even demanded that my existing paper should only be *one chapter* of the final thesis??? But everyone else just expands on their small papers, and that becomes their thesis... I'm speechless.
 >
 > Also, that paper already got rejected. The editor said it didn't fit the journal's theme. Honestly, I know it myself: that paper is just terrible. I love you, Wiley, please just let me get one paper accepted.
->
-> 
+<br>
+<br>
 
 ### 吐槽点 3
 
