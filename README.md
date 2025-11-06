@@ -41,3 +41,13 @@
 **English**
 
 > Laodeng, I'm begging you, please actually read some papers. Stop doing your "research" using AI tools like Doubao and Deepseek, and stop treating WeChat Official Accounts like academic sources. Stop being a frog in a well (ignorant and narrow-minded).
+
+### 吐槽点 4
+
+**中文**
+
+> 老登你总在不切实际的幻想，因为你不了解，也不用去做实验写论文
+
+**English**
+
+> Laodeng, you're always indulging in unrealistic fantasies. That's because you don't understand the subject, and you're not the one who actually has to run the experiments or write the paper.
