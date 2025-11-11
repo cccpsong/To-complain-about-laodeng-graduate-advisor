@@ -54,3 +54,18 @@
 **English**
 
 > Laodeng, you're always indulging in unrealistic fantasies. That's because you don't understand the subject, and you're not the one who actually has to run the experiments or write the paper.
+
+<br>
+<br>
+
+### 吐槽点 5（2024.11.11）
+
+**中文**
+
+> 这周的组会，老登没有说什么，但是我正在跟她商量投软著的事，突然她就去打电话了.....我直接尬在原地，听了几分钟，默默的走了出去。另外，论文又被拒了，说是不符合期刊要求.....唉
+
+**English**
+
+> At this week's group meeting, Laodeng didn't say much. But I was in the middle of discussing the software copyright application with her when she suddenly just walked off to take a phone call... I was left standing there awkwardly. After listening in for a few minutes, I just quietly walked out.
+>
+> Also, the paper got rejected again. They said it didn't meet the journal's requirements... Sigh.
